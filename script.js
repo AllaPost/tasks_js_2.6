@@ -1,6 +1,6 @@
 // Задание 1: Определение функций (Function Declaration)
 
-let userName = "Иван";
+let userName = "Николай";
 
 function greet(name) {
     console.log(`Привет, ${name}!`);
